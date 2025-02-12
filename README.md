@@ -11,12 +11,10 @@
 
 ### Dataset
 
-**COCO**
--Download the COCO dataset "2017 Train images [118K/18GB]" from https://cocodataset.org/#download
-**Caltech 256**
--Download the Caltech 256 dataset from https://data.caltech.edu/records/nyy15-4j048
+- **COCO**Download the COCO dataset "2017 Train images [118K/18GB]" from https://cocodataset.org/#download
+- **Caltech 256** : Download the Caltech 256 dataset from https://data.caltech.edu/records/nyy15-4j048
 
-**Kodak** (http://r0k.us/graphics/kodak)
-**Tecnick TESTIMAGES** (https://testimages.org/)
-**CLIC** (http://compression.cc/)
+- **Kodak** : http://r0k.us/graphics/kodak
+- **Tecnick TESTIMAGES** : https://testimages.org/
+- **CLIC** : http://compression.cc/
 
