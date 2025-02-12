@@ -15,6 +15,6 @@
 - **Caltech 256** : Download the Caltech 256 dataset from https://data.caltech.edu/records/nyy15-4j048
 
 - **Kodak** : http://r0k.us/graphics/kodak
-- **Tecnick TESTIMAGES** : https://testimages.org/
+- **TESTIMAGES** : https://testimages.org/
 - **CLIC** : http://compression.cc/
 
