@@ -17,4 +17,5 @@
 - **Kodak** : http://r0k.us/graphics/kodak
 - **TESTIMAGES** : https://testimages.org/
 - **CLIC** : http://compression.cc/
+- **VitaScape** : https://github.com/YuanMeng0/VitaScape/tree/main
 
